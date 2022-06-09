@@ -1,0 +1,10 @@
+Javier,cra 22 17-4,Monteria,Córdoba,of
+Daniela,cra 50 17-4,Planeta,Córdoba,on
+Victoria,cra 50 17-4,Palmira,Valle del cauca,of
+Juan,cra 17 17-4,Medellin,Antioquia,of
+Maria,cra 70 17-4,Bogota,Cundinamarca,on
+Manuel,cra 100 17-4,Sincelejo,Sucre,on
+Marcos,cra 30 38-5,Cartagenta,Bolivar,of
+Miriam,cra 70 17-4,Barranquilla,Atlantico,on
+Ena,cra 70 17-4,Bello,Antioquia,of
+David,cra 70 17-4,Rio negro,Antioquia,of
